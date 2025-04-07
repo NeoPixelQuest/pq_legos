@@ -1,0 +1,22 @@
+{
+  "name": "pixelquest/pq_legos",
+  "description": "Pixel Quest Layout Builder Lego Blocks",
+  "type": "drupal-module",
+  "homepage": "https://github.com/NeoPixelQuest/pq_legos",
+  "authors": [
+    {
+      "name": "Michael Palmer",
+      "email": "michael@pixel-quest.io",
+      "homepage": "https://pixel-quest.io",
+      "role": "Maintainer"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/NeoPixelQuest/pq_legos/issues",
+    "source": "https://github.com/NeoPixelQuest/pq_legos.git"
+  },
+  "require" : {
+    "drupal/core": "^10.4 || ^11"
+  },
+  "license": "GPL-3.0-or-later"
+}
